@@ -33,4 +33,4 @@ def circulate():
 ![output](./circulate.png)
 
 ## Result:
-Thus the python program of circulate of N variables executed successfully
+Thus the python program of circulate of N variables executed successfully.
